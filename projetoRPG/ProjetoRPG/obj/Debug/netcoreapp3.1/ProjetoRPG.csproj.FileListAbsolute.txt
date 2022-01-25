@@ -1,0 +1,13 @@
+C:\Users\giova\Desktop\aula vscode\projetoRPG\ProjetoRPG\bin\Debug\netcoreapp3.1\ProjetoRPG.exe
+C:\Users\giova\Desktop\aula vscode\projetoRPG\ProjetoRPG\bin\Debug\netcoreapp3.1\ProjetoRPG.deps.json
+C:\Users\giova\Desktop\aula vscode\projetoRPG\ProjetoRPG\bin\Debug\netcoreapp3.1\ProjetoRPG.runtimeconfig.json
+C:\Users\giova\Desktop\aula vscode\projetoRPG\ProjetoRPG\bin\Debug\netcoreapp3.1\ProjetoRPG.runtimeconfig.dev.json
+C:\Users\giova\Desktop\aula vscode\projetoRPG\ProjetoRPG\bin\Debug\netcoreapp3.1\ProjetoRPG.dll
+C:\Users\giova\Desktop\aula vscode\projetoRPG\ProjetoRPG\bin\Debug\netcoreapp3.1\ProjetoRPG.pdb
+C:\Users\giova\Desktop\aula vscode\projetoRPG\ProjetoRPG\obj\Debug\netcoreapp3.1\ProjetoRPG.csprojAssemblyReference.cache
+C:\Users\giova\Desktop\aula vscode\projetoRPG\ProjetoRPG\obj\Debug\netcoreapp3.1\ProjetoRPG.AssemblyInfoInputs.cache
+C:\Users\giova\Desktop\aula vscode\projetoRPG\ProjetoRPG\obj\Debug\netcoreapp3.1\ProjetoRPG.AssemblyInfo.cs
+C:\Users\giova\Desktop\aula vscode\projetoRPG\ProjetoRPG\obj\Debug\netcoreapp3.1\ProjetoRPG.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\aula vscode\projetoRPG\ProjetoRPG\obj\Debug\netcoreapp3.1\ProjetoRPG.dll
+C:\Users\giova\Desktop\aula vscode\projetoRPG\ProjetoRPG\obj\Debug\netcoreapp3.1\ProjetoRPG.pdb
+C:\Users\giova\Desktop\aula vscode\projetoRPG\ProjetoRPG\obj\Debug\netcoreapp3.1\ProjetoRPG.genruntimeconfig.cache
